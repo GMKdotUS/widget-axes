@@ -1,7 +1,7 @@
 # com-chilipeppr-widget-xyz
 This widget shows your XYZ position. It can also show your A position. You have jog controls and axis zeroing and homing.
 
-![alt text](screenshot.png "Screenshot")
+![alt text](screenshot1.png "Screenshot")
 
 ## ChiliPeppr Widget / XYZ Axes for Grbl
 
